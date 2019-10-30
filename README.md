@@ -1,5 +1,5 @@
 # Weighted Job Scheduling
-An advanced algorithms assignment problem. More constraints added to the classic weighted job scheduling problem. It was required to find a solution to this problem with both recursion and dynamic program. Furthermore, time and space complexity were added constraints.
+An advanced algorithms assignment problem. More constraints added to the classic weighted job scheduling problem. It was required to find a solution to this problem with both recursion and dynamic program. Furthermore, time and space complexity were added constraints. The assignment spec is given to give more detail.
 
 # Added Constraints
 The added constraints and requirements were:
